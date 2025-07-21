@@ -50,6 +50,7 @@
 | Technology | Purpose | Version |
 
 |------------|---------|---------|
+
 | React | UI Framework | 18.2.0 |
 
 | Vite | Build Tool | 4.0.0 |
