@@ -14,9 +14,14 @@
   <img src="/public/images/screenshot.png" alt="TaskMaster Pro Screenshot" style="max-width: 100%; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
-![Uploading Home Page.JPG…]()
-![Uploading add task.JPG…]()
-![Uploading complete task.JPG…]()
+![Home Page](https://github.com/user-attachments/assets/de280861-89ab-4dde-9ad1-b065b0f08baa)
+
+![add task](https://github.com/user-attachments/assets/a7d2a373-301f-49f5-bcab-89f0e9f8e48f)
+
+![complete task](https://github.com/user-attachments/assets/deb71144-0f4c-427c-9083-657b108031a5)
+
+
+
 
  🎯 Key Features
 
